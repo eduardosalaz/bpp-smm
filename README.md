@@ -17,7 +17,11 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Instalacion:
 
 `git clone https://github.com/eduardosalaz/bpp-smm.git`
+
 `cd bpp-smm`
+
 `npm i`
+
 `ng serve`
+
 Abrir navegador en localhost:4200, al cambiar el código la página se refresca en automático
